@@ -10,3 +10,5 @@ collections for virtual box
 
 **CVE-2018-3055+3085 vbox 3dpwn**: https://github.com/niklasb/3dpwn
     - include `makepkg` to compile vbox from source
+
+**0day in 35c3ctf**: https://mp.weixin.qq.com/s/hgSl3U8BzICxev4TH7bSnQ

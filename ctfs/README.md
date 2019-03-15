@@ -57,3 +57,6 @@ https://dangokyo.me/2018/03/02/go-for-vm-escape/
 
     > 大佬太强了，这居然是道vmware逃逸题，接口点vmware tools，flyyy出的题
 
+* **35c3 virtualbox 0day**: [writeup by f1yyy](https://mp.weixin.qq.com/s/hgSl3U8BzICxev4TH7bSnQ)
+    > 0day比赛。。阔怕
+
