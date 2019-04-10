@@ -5,6 +5,7 @@ read source code
 
 ## Resources
 
+[Excellence blog](https://people.cs.nctu.edu.tw/~chenwj/dokuwiki/doku.php#%E8%99%9B%E6%93%AC%E6%A9%9F%E5%99%A8)
 [features of qemu in wiki](https://wiki.qemu.org/Features)
 [QOM学习](https://www.binss.me/blog/qemu-note-of-qemu-object-model/)
 
