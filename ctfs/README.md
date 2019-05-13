@@ -60,3 +60,7 @@ https://dangokyo.me/2018/03/02/go-for-vm-escape/
 * **35c3 virtualbox 0day**: [writeup by f1yyy](https://mp.weixin.qq.com/s/hgSl3U8BzICxev4TH7bSnQ)
     > 0day比赛。。阔怕
 
+* **Defcon Qualifier 2019**: [Source Code](https://github.com/o-o-overflow/dc2019q-rtooos)
+
+	> mac上hvf的hypervisor，先从远程pwn掉简单的kernel cat出hypervisor，再进行mac 堆pwn
+
