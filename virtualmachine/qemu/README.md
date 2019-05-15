@@ -9,6 +9,8 @@ read source code
 [features of qemu in wiki](https://wiki.qemu.org/Features)
 [QOM学习](https://www.binss.me/blog/qemu-note-of-qemu-object-model/)
 
+[qemu tech](https://stuff.mit.edu/afs/sipb/project/phone-project/share/doc/qemu/qemu-tech.html)
+
 
 ## CVEs
 
