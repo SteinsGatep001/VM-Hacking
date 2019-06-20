@@ -64,3 +64,6 @@ https://dangokyo.me/2018/03/02/go-for-vm-escape/
 
 	> mac上hvf的hypervisor，先从远程pwn掉简单的kernel cat出hypervisor，再进行mac 堆pwn
 
+* **QWB 2019**
+	> pci设备，有点绕的状态机，详见[qwb2019_qwct](qwb2019_qwct/README.md)
+
