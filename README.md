@@ -12,6 +12,7 @@ study and hack VM
 - [qemu development](https://wiki.qemu.org/Documentation/GettingStartedDevelopers)
 - [linux kernel study with git](https://github.com/cirosantilli/linux-kernel-module-cheat)
 - [awesome-virtualization](https://github.com/Wenzel/awesome-virtualization)
+- [nctu.edu about vm](https://people.cs.nctu.edu.tw/~chenwj/dokuwiki/doku.php#%E8%99%9B%E6%93%AC%E6%A9%9F%E5%99%A8)
 
 
 ## Source
