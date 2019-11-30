@@ -8,6 +8,8 @@ http://www.phrack.org/papers/vm-escape-qemu-case-study.html
 
 https://dangokyo.me/2018/03/02/go-for-vm-escape/
 
+http://brieflyx.me/2019/linux-tools/qemu-escape-attack-surface/
+
 ## ctf problem:
 
 * **0CTF 2017 Finals  vm_escape**: http://blog.eadom.net/writeups/qemu-escape-vm-escape-from-0ctf-2017-finals-writeup/
@@ -51,19 +53,22 @@ https://dangokyo.me/2018/03/02/go-for-vm-escape/
     > david942j声称见过出得最好的vm escape题目，包含user、kernel、kvm三层pwn，并且包含题目源码。Nice challenge to study !!
 
 * **Real World CTF 2018 - kid vm**: [writeup by perfect blue](https://github.com/perfectblue/ctf-writeups/blob/master/RealWorldCTF-2018/kidvm.md)
-    > 用`simple kvm`出一个题
-
+    
+> 用`simple kvm`出一个题
+    
 * **Real World CTF 2018 Finals - Station-Escape**: [writeup](https://zhuanlan.zhihu.com/p/52140921)
 
     > 大佬太强了，这居然是道vmware逃逸题，接口点vmware tools，flyyy出的题
 
 * **35c3 virtualbox 0day**: [writeup by f1yyy](https://mp.weixin.qq.com/s/hgSl3U8BzICxev4TH7bSnQ)
-    > 0day比赛。。阔怕
-
+    
+> 0day比赛。。阔怕
+    
 * **Defcon Qualifier 2019**: [Source Code](https://github.com/o-o-overflow/dc2019q-rtooos)
 
 	> mac上hvf的hypervisor，先从远程pwn掉简单的kernel cat出hypervisor，再进行mac 堆pwn
 
 * **QWB 2019**
+	
 	> pci设备，有点绕的状态机，详见[qwb2019_qwct](qwb2019_qwct/README.md)
 
